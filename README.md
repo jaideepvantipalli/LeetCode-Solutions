@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0506-relative-ranks) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1046-last-stone-weight](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0506-relative-ranks](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [1046-last-stone-weight](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
+## Binary Search
+|  |
+| ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
