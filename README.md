@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1732-find-the-highest-altitude](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1861-rotating-the-box](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2104-sum-of-subarray-ranges](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Hash Table
