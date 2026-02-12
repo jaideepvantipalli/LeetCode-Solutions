@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1207-unique-number-of-occurrences](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [3713-longest-balanced-substring-i](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Sorting
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0072-edit-distance) |
+| [3713-longest-balanced-substring-i](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Tree
 |  |
 | ------- |
@@ -124,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+## Counting
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
