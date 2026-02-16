@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Counting
 |  |
