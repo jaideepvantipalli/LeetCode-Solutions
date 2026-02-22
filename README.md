@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
+| [0868-binary-gap](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0868-binary-gap) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
 |  |
