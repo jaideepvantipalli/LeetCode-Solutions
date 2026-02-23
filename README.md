@@ -181,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0062-unique-paths) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
