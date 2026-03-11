@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [2104-sum-of-subarray-ranges](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [2073-time-needed-to-buy-tickets](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sliding Window
@@ -239,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
