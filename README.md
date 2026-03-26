@@ -283,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0577-employee-bonus](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
