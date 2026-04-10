@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3637-trionic-array-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Stack
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-decode-the-message](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2325-decode-the-message) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Sorting
 |  |
 | ------- |
