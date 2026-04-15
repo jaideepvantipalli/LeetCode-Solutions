@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2090-k-radius-subarray-averages](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2104-sum-of-subarray-ranges](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2574-left-and-right-sum-differences](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2325-decode-the-message](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2325-decode-the-message) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
