@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2090-k-radius-subarray-averages](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2104-sum-of-subarray-ranges](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2574-left-and-right-sum-differences](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1861-rotating-the-box](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Heap (Priority Queue)
 |  |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
 |  |
@@ -184,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3379-transformed-array](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3379-transformed-array) |
 ## String
