@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2325-decode-the-message](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2325-decode-the-message) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [2833-furthest-point-from-origin](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2833-furthest-point-from-origin) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Tree
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2833-furthest-point-from-origin](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2833-furthest-point-from-origin) |
 | [3713-longest-balanced-substring-i](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Quickselect
 |  |
