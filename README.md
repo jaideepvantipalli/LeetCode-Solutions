@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2500-delete-greatest-value-in-each-row](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2574-left-and-right-sum-differences](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2643-row-with-maximum-ones](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1861-rotating-the-box](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2643-row-with-maximum-ones](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Heap (Priority Queue)
 |  |
