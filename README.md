@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
