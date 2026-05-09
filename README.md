@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1232-check-if-it-is-a-straight-line](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1534-count-good-triplets](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1534-count-good-triplets) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1534-count-good-triplets) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3713-longest-balanced-substring-i](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
