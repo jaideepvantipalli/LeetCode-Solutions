@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0518-coin-change-ii](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0821-shortest-distance-to-a-character](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1046-last-stone-weight](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
+| [0821-shortest-distance-to-a-character](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0876-middle-of-the-linked-list](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0657-robot-return-to-origin](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
+| [0821-shortest-distance-to-a-character](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [1143-longest-common-subsequence](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
