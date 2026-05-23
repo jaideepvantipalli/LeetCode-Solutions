@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
