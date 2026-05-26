@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0451-sort-characters-by-frequency](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [1200-minimum-absolute-difference](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0205-isomorphic-strings](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
