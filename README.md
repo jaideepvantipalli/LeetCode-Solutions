@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [1200-minimum-absolute-difference](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1859-sorting-the-sentence](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0701-insert-into-a-binary-search-tree](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0662-maximum-width-of-binary-tree](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0701-insert-into-a-binary-search-tree](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -446,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0700-search-in-a-binary-search-tree](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Database
 |  |
 | ------- |
