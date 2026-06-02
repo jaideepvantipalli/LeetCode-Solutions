@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3379-transformed-array](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3379-transformed-array) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3637-trionic-array-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Greedy
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2027-minimum-moves-to-convert-string](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2027-minimum-moves-to-convert-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Matrix
 |  |
 | ------- |
@@ -204,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Enumeration
 |  |
 | ------- |
