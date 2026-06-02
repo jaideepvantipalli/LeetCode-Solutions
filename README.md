@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0477-total-hamming-distance](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0477-total-hamming-distance) |
 | [0506-relative-ranks](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0190-reverse-bits](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0461-hamming-distance) |
+| [0477-total-hamming-distance](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0477-total-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0868-binary-gap) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0048-rotate-image](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [0477-total-hamming-distance](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0477-total-hamming-distance) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
