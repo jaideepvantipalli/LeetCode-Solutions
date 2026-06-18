@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0477-total-hamming-distance](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0477-total-hamming-distance) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
