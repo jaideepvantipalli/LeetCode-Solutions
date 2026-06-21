@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1833-maximum-ice-cream-bars](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1859-sorting-the-sentence](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0561-array-partition](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1833-maximum-ice-cream-bars](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2027-minimum-moves-to-convert-string](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2027-minimum-moves-to-convert-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -507,4 +510,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0561-array-partition) |
+| [1833-maximum-ice-cream-bars](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
