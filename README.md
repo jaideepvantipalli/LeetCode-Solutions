@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0518-coin-change-ii](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [1143-longest-common-subsequence](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0048-rotate-image](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0477-total-hamming-distance](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0477-total-hamming-distance) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -514,4 +516,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0561-array-partition](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [1833-maximum-ice-cream-bars](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
