@@ -499,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0577-employee-bonus](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0577-employee-bonus) |
 | [0627-swap-sex-of-employees](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0627-swap-sex-of-employees) |
+| [1757-recyclable-and-low-fat-products](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Bucket Sort
 |  |
 | ------- |
