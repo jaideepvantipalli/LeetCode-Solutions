@@ -504,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Database
 |  |
 | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0577-employee-bonus](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0577-employee-bonus) |
 | [0627-swap-sex-of-employees](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0627-swap-sex-of-employees) |
 | [1148-article-views-i](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1148-article-views-i) |
