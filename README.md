@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0477-total-hamming-distance](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0477-total-hamming-distance) |
 | [0506-relative-ranks](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0506-relative-ranks) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0048-rotate-image](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -536,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
