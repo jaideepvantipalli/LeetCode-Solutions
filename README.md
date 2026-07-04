@@ -529,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0577-employee-bonus) |
 | [0627-swap-sex-of-employees](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0627-swap-sex-of-employees) |
+| [1068-product-sales-analysis-i](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
