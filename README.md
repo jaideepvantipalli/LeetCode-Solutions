@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0072-edit-distance) |
+| [0118-pascals-triangle](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0518-coin-change-ii](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
