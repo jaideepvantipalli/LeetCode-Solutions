@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0931-minimum-falling-path-sum](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Simulation
 |  |
 | ------- |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3945-digit-frequency-score](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Geometry
 |  |
