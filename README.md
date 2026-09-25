@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0041-first-missing-positive](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
