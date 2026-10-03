@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1200-minimum-absolute-difference](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1248-count-number-of-nice-subarrays](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2090-k-radius-subarray-averages](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2090-k-radius-subarray-averages) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1189-maximum-number-of-balloons](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1248-count-number-of-nice-subarrays](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -455,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0477-total-hamming-distance](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0477-total-hamming-distance) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1248-count-number-of-nice-subarrays](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2396-strictly-palindromic-number](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
