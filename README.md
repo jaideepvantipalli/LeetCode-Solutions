@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0041-first-missing-positive](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0048-rotate-image](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0931-minimum-falling-path-sum) |
