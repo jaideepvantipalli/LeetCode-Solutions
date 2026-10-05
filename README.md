@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1346-check-if-n-and-its-double-exist](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1534-count-good-triplets) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1512-number-of-good-pairs](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2325-decode-the-message](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2325-decode-the-message) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1512-number-of-good-pairs](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2833-furthest-point-from-origin](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2833-furthest-point-from-origin) |
 | [3713-longest-balanced-substring-i](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
@@ -517,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1232-check-if-it-is-a-straight-line](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1512-number-of-good-pairs](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2396-strictly-palindromic-number](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
