@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0409-longest-palindrome](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0657-robot-return-to-origin](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
@@ -669,4 +670,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
