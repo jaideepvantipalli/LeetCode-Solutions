@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
