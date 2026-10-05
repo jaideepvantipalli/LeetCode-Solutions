@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0072-edit-distance) |
