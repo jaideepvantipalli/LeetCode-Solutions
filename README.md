@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0225-implement-stack-using-queues](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2104-sum-of-subarray-ranges](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0942-di-string-match](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0942-di-string-match) |
 | [1143-longest-common-subsequence](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
