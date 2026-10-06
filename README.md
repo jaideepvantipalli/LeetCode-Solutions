@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0454-4sum-ii](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0454-4sum-ii) |
+| [0456-132-pattern](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0477-total-hamming-distance](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0477-total-hamming-distance) |
 | [0506-relative-ranks](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
+| [0456-132-pattern](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0735-asteroid-collision](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0853-car-fleet) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0853-car-fleet) |
 | [2104-sum-of-subarray-ranges](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0456-132-pattern](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -779,4 +783,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
