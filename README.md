@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0225-implement-stack-using-queues](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0735-asteroid-collision](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0853-car-fleet) |
 | [2104-sum-of-subarray-ranges](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0045-jump-game-ii](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0134-gas-station) |
+| [0402-remove-k-digits](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0561-array-partition) |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0072-edit-distance](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0402-remove-k-digits](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
