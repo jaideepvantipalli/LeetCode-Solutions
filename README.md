@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0057-insert-interval](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0084-largest-rectangle-in-histogram](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [2104-sum-of-subarray-ranges](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Bit Manipulation
@@ -757,4 +760,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
