@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0733-flood-fill](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0821-shortest-distance-to-a-character](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0918-maximum-sum-circular-subarray](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0232-implement-queue-using-stacks](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
+| [0739-daily-temperatures](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2104-sum-of-subarray-ranges](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [2104-sum-of-subarray-ranges](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Bit Manipulation
 |  |
