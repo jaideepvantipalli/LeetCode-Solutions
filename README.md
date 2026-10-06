@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0456-132-pattern](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0735-asteroid-collision](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0853-car-fleet) |
 | [0907-sum-of-subarray-minimums](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0696-count-binary-substrings](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [0821-shortest-distance-to-a-character](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [0844-backspace-string-compare](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0942-di-string-match](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0942-di-string-match) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0415-add-strings](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0696-count-binary-substrings](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [0821-shortest-distance-to-a-character](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [0844-backspace-string-compare](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0942-di-string-match](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0942-di-string-match) |
 | [1143-longest-common-subsequence](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
