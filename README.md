@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0049-group-anagrams](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0086-partition-list](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0189-rotate-array) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -574,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -705,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Trie
 |  |
