@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0844-backspace-string-compare](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0853-car-fleet) |
 | [0907-sum-of-subarray-minimums](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1021-remove-outermost-parentheses](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2104-sum-of-subarray-ranges](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0821-shortest-distance-to-a-character](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0942-di-string-match](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0942-di-string-match) |
+| [1021-remove-outermost-parentheses](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -799,4 +801,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/0456-132-pattern) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/jaideepvantipalli/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
